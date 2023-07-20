@@ -5,7 +5,7 @@
 a = int (input("Katya: "))
 b = int (input("Petya and Serezha: "))
 
-a = (b+b)*2
+a = (b+b)*2 
 sum = a + b*2
 
 print(sum)
